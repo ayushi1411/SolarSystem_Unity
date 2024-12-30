@@ -345,7 +345,7 @@
       "DisplayName": "Writing boot.config_tyr4.info",
       "ActionType": "WriteFile",
       "PayloadOffset": 83,
-      "PayloadLength": 52011,
+      "PayloadLength": 52033,
       "PayloadDebugContentSnippet": "{\"System.Object\":null,\"Bee.Tun",
       "Inputs": [],
       "InputFlags": [],
@@ -448,17 +448,17 @@
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.ForUI.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Unity.Multiplayer.Center.Common.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/PackageCache/com.unity.visualscripting@0920df93f957/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.ForUI.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Unity.Multiplayer.Center.Common.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/PackageCache/com.unity.visualscripting@0920df93f957/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Accessibility.dll",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Commons.Xml.Relaxng.dll",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/CustomMarshalers.dll",
@@ -1234,16 +1234,16 @@
       "DebugActionIndex": 13
     },
     {
-      "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/7745515000275007967.rsp",
-      "DisplayName": "Writing 7745515000275007967.rsp",
+      "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/3799968018946990118.rsp",
+      "DisplayName": "Writing 3799968018946990118.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 52183,
-      "PayloadLength": 74926,
+      "PayloadOffset": 52205,
+      "PayloadLength": 74984,
       "PayloadDebugContentSnippet": "--allowed-assembly=\"C:/Program",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
-        "Library/Bee/artifacts/rsp/7745515000275007967.rsp"
+        "Library/Bee/artifacts/rsp/3799968018946990118.rsp"
       ],
       "OutputFlags": [
         2
@@ -1251,10 +1251,10 @@
       "DebugActionIndex": 14
     },
     {
-      "Annotation": "UnityLinker C:/Users/ayushi/unityGames/My project/Library/Bee/artifacts/unitylinker_dwek.traceevents",
+      "Annotation": "UnityLinker C:/Users/ayushi/unityGames/Solar System/Library/Bee/artifacts/unitylinker_dwek.traceevents",
       "DisplayName": "Code-stripping Assemblies with UnityLinker",
-      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.22f1\\Editor\\Data\\il2cpp/build/deploy/UnityLinker.exe\" @\"Library\\Bee\\artifacts\\rsp\\7745515000275007967.rsp\"",
-      "ProfilerOutput": "C:/Users/ayushi/unityGames/My project/Library/Bee/artifacts/unitylinker_dwek.traceevents",
+      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.22f1\\Editor\\Data\\il2cpp/build/deploy/UnityLinker.exe\" @\"Library\\Bee\\artifacts\\rsp\\3799968018946990118.rsp\"",
+      "ProfilerOutput": "C:/Users/ayushi/unityGames/Solar System/Library/Bee/artifacts/unitylinker_dwek.traceevents",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AIModule.dll",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AMDModule.dll",
@@ -1330,17 +1330,17 @@
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.ForUI.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Unity.Multiplayer.Center.Common.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/PackageCache/com.unity.visualscripting@0920df93f957/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.ForUI.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Unity.Multiplayer.Center.Common.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "C:/Users/ayushi/unityGames/Solar System/Library/PackageCache/com.unity.visualscripting@0920df93f957/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Accessibility.dll",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Commons.Xml.Relaxng.dll",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/CustomMarshalers.dll",
@@ -1624,10 +1624,10 @@
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/cscompmgd.dll",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/monodoc.dll",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/mscorlib.dll",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/artifacts/UnityLinkerInputs/TypesInScenes.xml",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/artifacts/UnityLinkerInputs/SerializedTypes.xml",
-        "C:/Users/ayushi/unityGames/My project/Temp/InputSystemLink.xml",
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/artifacts/UnityLinkerInputs/EditorToUnityLinkerData.json",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/artifacts/UnityLinkerInputs/TypesInScenes.xml",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/artifacts/UnityLinkerInputs/SerializedTypes.xml",
+        "C:/Users/ayushi/unityGames/Solar System/Temp/InputSystemLink.xml",
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/artifacts/UnityLinkerInputs/EditorToUnityLinkerData.json",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/modules.asset",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/il2cpp/build/deploy/Analytics.Api.Output.dll",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/il2cpp/build/deploy/Analytics.Api.Output.xml",
@@ -1909,7 +1909,7 @@
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/il2cpp/build/deploy/UnityLinker.exe",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/il2cpp/build/deploy/UnityLinker.runtimeconfig.json",
         "C:/Program Files/Unity/Hub/Editor/6000.0.22f1/Editor/Data/il2cpp/build/deploy/WindowsBase.dll",
-        "Library/Bee/artifacts/rsp/7745515000275007967.rsp"
+        "Library/Bee/artifacts/rsp/3799968018946990118.rsp"
       ],
       "InputFlags": [
         0,
@@ -2568,7 +2568,7 @@
         8
       ],
       "Outputs": [
-        "C:/Users/ayushi/unityGames/My project/Library/Bee/artifacts/unitylinker_dwek.traceevents"
+        "C:/Users/ayushi/unityGames/Solar System/Library/Bee/artifacts/unitylinker_dwek.traceevents"
       ],
       "OutputFlags": [
         0
@@ -4838,7 +4838,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info",
       "DisplayName": "Writing app.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 127198,
+      "PayloadOffset": 127278,
       "PayloadLength": 15,
       "PayloadDebugContentSnippet": "AG\nSolar System",
       "Inputs": [],
@@ -5696,6 +5696,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/Player5f72cb02.dag.json",
-  "PayloadsFile": "C:/Users/ayushi/unityGames/My project/Library/Bee/Player5f72cb02.dag.payloads",
+  "PayloadsFile": "C:/Users/ayushi/unityGames/Solar System/Library/Bee/Player5f72cb02.dag.payloads",
   "RelativePathToRoot": "../.."
 }

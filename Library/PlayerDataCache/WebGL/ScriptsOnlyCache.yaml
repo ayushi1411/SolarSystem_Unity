@@ -60,13 +60,13 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 26050}
+      Script: {instanceID: 26052}
     - Class: 114
-      Script: {instanceID: 27600}
+      Script: {instanceID: 27602}
     - Class: 114
-      Script: {instanceID: 29732}
+      Script: {instanceID: 29734}
     - Class: 114
-      Script: {instanceID: 32364}
+      Script: {instanceID: 32366}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -1069,4 +1069,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/Solar System.unity
-  playerPath: C:/Users/ayushi/unityGames/My project/Builds/WebGL
+  playerPath: C:/Users/ayushi/unityGames/Solar System/Builds/WebGL
